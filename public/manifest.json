@@ -3,7 +3,7 @@
     "short_name": "findweath",
     "display": "minimal-ui",
     "start_url": "../src/",
-    "theme_color": "#673ab6",
+    "theme_color": "#c9183c",
     "background_color": "#111111",
     "icons": [
         {
